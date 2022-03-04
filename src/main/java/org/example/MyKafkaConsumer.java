@@ -46,10 +46,6 @@ public class MyKafkaConsumer implements Runnable {
         System.out.println("DONE");
     }
 
-//    public static void main(String... args) throws Exception {
-//        runConsumer();
-//    }
-
     @Override
     public void run() {
         try {
